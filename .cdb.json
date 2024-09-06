@@ -1,0 +1,7 @@
+{
+	"title": "Sewing table",
+	"name": "sewing_table",
+	"tags": ["utility"],
+	"license": "AGPLv3",
+	"repo": "https://github.com/upsidedownsweetfood/minetest_sewing_table"
+}
